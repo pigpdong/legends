@@ -6,7 +6,7 @@
 演示地址:  http://legends.sunyi.io/
 
 ## 功能简介
-对对对
+![img](https://res.tongbanjie.com/webs/tbj_homepage/0.0.14/imgs/activity_001.jpg)
 
 ### 服务器端-添加任务
 
